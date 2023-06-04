@@ -1,0 +1,6 @@
+[submodule "libfigpar"]
+	path = libfigpar
+	url = git@github.com:kfv/libfigpar.git
+[submodule "libfigput"]
+	path = libfigput
+	url = git@github.com:kfv/libfigput.git
